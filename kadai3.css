@@ -1,0 +1,20 @@
+h1{text-align: center;
+    color: blueviolet;
+     
+      background-color: azure;
+        
+}
+body{  
+      background-image: url(../images/folder1.jpeg); 
+}
+h2{text-align: center;
+    color: coral;
+   
+  background-color: brown;
+}
+h3{
+    color: chartreuse;
+}
+p{
+    color: blue;
+}
