@@ -1,0 +1,22 @@
+h1{text-align: center;
+    color: blueviolet;
+     
+      background-color: azure;
+        
+}
+body{  
+      background-image: url(../images/folder3.jpeg); 
+}
+h2{
+    color: coral;
+     background-color: brown;
+    
+}
+   
+
+ol{background-image: url(../images/folder4.jpeg);}
+
+table{
+    background-color: chartreuse;
+}
+
