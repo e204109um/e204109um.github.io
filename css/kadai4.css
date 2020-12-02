@@ -1,0 +1,32 @@
+h2.bluecolor{
+    color: blue;
+    background-color: burlywood;
+    text-align: center;
+}
+h2.yellowcolor{
+    color: yellow;
+    background-color: coral;
+    text-align: center;
+
+}
+
+
+h1#kudo{
+    font-family: impact;
+    text-align: center;
+    color: blue;
+    background-color: aquamarine;
+    
+    
+
+}
+h1#umemoto{
+    text-align: center;
+    color: crimson;
+    background-color: antiquewhite;
+    
+}
+
+h2:hover{
+    background-color: aqua
+}
