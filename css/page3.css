@@ -1,0 +1,120 @@
+div.title{
+    width: 1000px;
+    height: 50px;
+    text-align: center;
+    background-color: cyan;
+    margin-bottom: 20px;
+}
+
+div.tyuuou{
+    width: 1000px;
+    height: 200px;
+    background-color: aquamarine;
+    font-size: 0;
+    
+}
+    
+div.menu{
+    width: 250px;
+    height: 120px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: chartreuse;
+}
+div.menu1{
+    vertical-align: top;
+    width: 250px;
+    height: 40px;
+    text-align: left;
+    background-color: coral;
+    margin-bottom: 10px;
+    
+    font-size: 15px;
+}
+
+div.menu2{
+    vertical-align: top;
+    width:250px;
+    height: 40px;
+    text-align: left;
+    background-color: coral;
+    margin-bottom: 10px;
+  
+    font-size: 15px;
+}
+
+div.menu3{
+     vertical-align: top;
+    width:250px;
+    height: 40px;
+    text-align: left;
+    background-color: coral;
+    font-size: 15px;
+}
+
+div.migi{
+    width: 700px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: blanchedalmond;
+    
+   
+    
+}
+
+div.image{
+    width: 700px;
+    height: 140px;
+    vertical-align: top;
+    background-color: aquamarine;
+    margin-left: 50px;
+}
+
+div.bunsyou{
+    width: 700px;
+    height: 60px;
+    background-color: azure;
+    vertical-align: top;
+    font-size: 15px;
+    margin-left: 50px;
+    }
+div.sita{
+    width: 700px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: azure;
+    
+   
+    
+}
+
+div.image2{
+    width: 700px;
+    height: 140px;
+    vertical-align: top;
+    background-color: aqua;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+
+div.bunsyou2{
+    width: 700px;
+    height: 60px;
+    background-color: azure;
+    vertical-align: top;
+    font-size: 15px;
+    margin-left: 300px;
+    }
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: coral;
+    text-align: right;
+    margin-top: 20px;
+}
+div.wrap{
+     width: 1000px;
+    height: 0px auto;
+}
